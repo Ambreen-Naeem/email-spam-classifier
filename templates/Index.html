@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Spam Classifier</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <h1>📧 Email Spam Classifier</h1>
+
+        <p class="subtitle">
+            Detect spam emails using Natural Language Processing and Machine Learning
+        </p>
+
+        <form action="/predict" method="POST">
+
+            <textarea
+                name="email"
+                placeholder="Paste your email content here..."
+                required></textarea>
+
+            <button type="submit">
+                Analyze Email
+            </button>
+
+        </form>
+
+        {% if prediction %}
+        <div class="result">
+            {{ prediction }}
+        </div>
+        {% endif %}
+
+        <div class="footer">
+            Built with Flask, NLP, TF-IDF and Naive Bayes
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
+
+
+
+</div>
+
+</body>
+</html>
+
