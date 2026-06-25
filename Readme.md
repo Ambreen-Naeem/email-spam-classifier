@@ -111,11 +111,11 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-![Home Page](screenshots/Home%20Page.png)
+![Home Page](Screenshots/Home%20Page.png)
 
-![Spam Detection](screenshots/Spam%20Email.png)
+![Spam Detection](Screenshots/Spam%20Email.png)
 
-![Not Spam](screenshots/Not%20Spam.png)
+![Not Spam](Screenshots/Not%20Spam.png)
 
 ---
 ## Author
