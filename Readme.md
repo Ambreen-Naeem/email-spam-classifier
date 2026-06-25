@@ -110,13 +110,12 @@ http://127.0.0.1:5000
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/Home Page.png)
 
-### Spam Detection
-![Spam Detection](screenshots/Spam Email.png)
+![Home Page](screenshots/Home%20Page.png)
 
-### Not Spam Detection
-![Not Spam](screenshots/Not Spam.png)
+![Spam Detection](screenshots/Spam%20Email.png)
+
+![Not Spam](screenshots/Not%20Spam.png)
 
 ---
 ## Author
