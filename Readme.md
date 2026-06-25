@@ -113,8 +113,10 @@ http://127.0.0.1:5000
 
 ![Home Page](Screenshots/Home%20Page.png)
 
+---
 ![Spam Detection](Screenshots/Spam%20Email.png)
 
+---
 ![Not Spam](Screenshots/Not%20Spam.png)
 
 ---
